@@ -16,13 +16,6 @@ Color Scheme:
   font-family: "Raleway", sans-serif;
 }
 
-.co-name-home-page {
-  /* width: 48%; */
+.card {
+  width: 18rem;
 }
-
-.scrolled {
-    position: fixed;
-    top: 0;
-    left: 0;
-    background-color: lightblue;
-  }
