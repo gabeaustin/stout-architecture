@@ -3,7 +3,7 @@ import React from "react";
 const HomePage = () => {
   return (
     <div className="container">
-      <div className="display-1 co-name-home-page text-uppercase text-center">
+      <div className="display-1 co-name-home-page text-uppercase text-center site-heading">
         Stout
       </div>
       <div className="display-4 co-byline-name-home-page text-lowercase text-center">

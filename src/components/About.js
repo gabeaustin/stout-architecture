@@ -3,24 +3,21 @@ import React from "react";
 const About = () => {
   return (
     <div className="container">
-      <div className="display-3">About Us</div>
+      <div className="display-3 border-bottom mb-5 site-heading">About Us</div>
 
       <div className="row">
         <div className="col-sm-4">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title">Card title</h5>
-              <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+              <h5 className="card-title border-bottom font-weight-bold site-heading">
+                about
+              </h5>
               <p className="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
+                soluta, recusandae, laborum ipsum ea at assumenda magnam
+                incidunt, dolores natus iure delectus enim sunt eius corporis
+                fugit molestiae dolorum?
               </p>
-              <a href="#" className="card-link">
-                Card link
-              </a>
-              <a href="#" className="card-link">
-                Another link
-              </a>
             </div>
           </div>
         </div>
@@ -28,18 +25,15 @@ const About = () => {
         <div className="col-sm-4">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title">Card title</h5>
-              <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+              <h5 className="card-title border-bottom font-weight-bold site-heading">
+                services
+              </h5>
               <p className="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
+                soluta, recusandae, laborum ipsum ea at assumenda magnam
+                incidunt, dolores natus iure delectus enim sunt eius corporis
+                fugit molestiae dolorum?
               </p>
-              <a href="#" className="card-link">
-                Card link
-              </a>
-              <a href="#" className="card-link">
-                Another link
-              </a>
             </div>
           </div>
         </div>
@@ -47,18 +41,15 @@ const About = () => {
         <div className="col-sm-4">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title">Card title</h5>
-              <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+              <h5 className="card-title border-bottom font-weight-bold site-heading">
+                about
+              </h5>
               <p className="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
+                soluta, recusandae, laborum ipsum ea at assumenda magnam
+                incidunt, dolores natus iure delectus enim sunt eius corporis
+                fugit molestiae dolorum?
               </p>
-              <a href="#" className="card-link">
-                Card link
-              </a>
-              <a href="#" className="card-link">
-                Another link
-              </a>
             </div>
           </div>
         </div>
