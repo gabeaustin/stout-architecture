@@ -17,5 +17,12 @@ Color Scheme:
 }
 
 .co-name-home-page {
-    /* width: 48%; */
+  /* width: 48%; */
 }
+
+.scrolled {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: lightblue;
+  }
