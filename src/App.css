@@ -1,0 +1,17 @@
+/*
+Color Scheme:
+- Primary: Gold
+- #a79344 or rgb(167, 147, 68)
+
+- Secondary: Blue
+- #4458a6 or rgb(27, 35, 65)
+
+- Additional: Light Grey
+- #f0f5f4 or rgb(240, 245, 244)
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Raleway+Dots&family=Raleway:wght@300&display=swap");
+
+* {
+  font-family: "Raleway", sans-serif;
+}
