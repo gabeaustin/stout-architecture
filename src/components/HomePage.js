@@ -10,7 +10,7 @@ const HomePage = () => {
         architecture
       </div>
       <div className="display-5 tag-line d-flex justify-content-center">
-        <p className="border w-50 text-center">
+        <p className="border w-50 text-center h5">
           a birmingham-based architecture firm with experience in all aspects of
           architectural design, management, and construction administration.
         </p>
