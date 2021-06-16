@@ -27,8 +27,40 @@ Color Scheme:
 .hr-short:after {
   content: ""; /* This is necessary for the pseudo element to work. */
   display: block; /* This will put the pseudo element on its own line. */
-  /* margin: 0 auto; This will center the border. */
   width: 35%; /* Change this to whatever width you want. */
   padding-top: 7px; /* This creates some space between the element and the border. */
   border-bottom: 1px solid #f0f5f4; /* This creates the border. Replace black with whatever color you want. */
+}
+
+.logo-container {
+  margin: 0;
+  padding: 0;
+}
+
+.co-name-home-page {
+  font-size: 13em;
+  font-weight: 300;
+}
+
+.tag-line {
+  font-size: 1.25rem; /* h5 = 1.25rem */
+}
+
+/* media queries */
+
+/* Will show on screens that are 576px or less */
+@media (max-width: 576px) {
+  .co-name-home-page {
+    font-size: 6rem;
+    font-weight: 300;
+    padding-top: 1.5rem;
+  }
+
+  .tag-line {
+    font-size: 1.5rem; /* h4 = 1.5rem */
+  }
+}
+
+/* Will show on screens 576.1px or wider  */
+@media (min-width: 576.1px) {
 }
