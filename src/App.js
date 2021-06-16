@@ -5,6 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "./components/Navbar";
 import HomePage from "./components/HomePage";
 import About from "./components/About";
+import Projects from "./components/Projects";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Navbar />
       <HomePage />
       <About />
+      <Projects />
     </div>
   );
 }
