@@ -24,17 +24,21 @@ Color Scheme:
   color: #a79344;
 }
 
+.center-screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 75vh;
+}
+
 .hr-short:after {
   content: ""; /* This is necessary for the pseudo element to work. */
   display: block; /* This will put the pseudo element on its own line. */
   width: 35%; /* Change this to whatever width you want. */
   padding-top: 7px; /* This creates some space between the element and the border. */
   border-bottom: 1px solid #f0f5f4; /* This creates the border. Replace black with whatever color you want. */
-}
-
-.logo-container {
-  margin: 0;
-  padding: 0;
 }
 
 .co-name-home-page {
