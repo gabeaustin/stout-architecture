@@ -75,6 +75,10 @@ Color Scheme:
     text-align: center;
     min-height: 45vh;
   }
+
+  .about-pg-card {
+    margin: 0 auto;
+  }
 }
 
 /* Will show on screens 576.1px or wider  */
