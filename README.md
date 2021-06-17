@@ -30,24 +30,29 @@ The Waterfall Project Management Methodology was used to complete this project.
 Here are before and after photos. The after photos aren't the final project.
 
 ### Before (Web)
-![Web photo before redesign](src/images/readme/before_web.jpg)
+
+<span style="border: 1px solid #a79344">![Web photo before redesign](src/images/readme/before_web.jpg)</span>
 
 ### Before (Mobile)
-![Mobile photo before redesign](src/images/readme/before_mobile.jpg)
+
+<span style="border: 1px solid #a79344">![Mobile photo before redesign](src/images/readme/before_mobile.jpg)</span>
 
 ### After (Web)
-![Web photo after redesign](src/images/readme/after_web1.jpg)
+
+<span style="border: 1px solid #a79344">![Web photo after redesign](src/images/readme/after_web1.jpg)</span>
 
 ### After (Web)
-![Web photo after redesign](src/images/readme/after_web2.jpg)
+
+<span style="border: 1px solid #a79344">![Web photo after redesign](src/images/readme/after_web2.jpg)</span>
 
 ### After (Mobile)
-![Mobile photo after redesign](src/images/readme/after_mobile.jpg)
+
+<span style="border: 1px solid #a79344">![Mobile photo after redesign](src/images/readme/after_mobile.jpg)</span>
 
 <br/>
 <br/>
 
 ---
 
-:octocat:&nbsp;&nbsp;# Stout Architecture Website Redesign&nbsp;&nbsp;:octocat: <br/>
+:octocat:&nbsp;&nbsp;Stout Architecture Website Redesign&nbsp;&nbsp;:octocat: <br/>
 :bowtie:&nbsp;&nbsp;A Gabe A. Production&nbsp;&nbsp;:bowtie:
