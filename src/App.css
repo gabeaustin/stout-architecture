@@ -20,6 +20,10 @@ Color Scheme:
   width: 18rem;
 }
 
+.people-pg-card {
+  width: 22rem;
+}
+
 .site-heading {
   color: #a79344;
 }
@@ -50,6 +54,10 @@ Color Scheme:
   font-size: 1.5rem; /* h4 = 1.5rem */
 }
 
+.people-pg-card {
+  /* margin: 0 auto; */
+  margin-bottom: 1.5rem;
+}
 
 /* media queries */
 
@@ -76,6 +84,16 @@ Color Scheme:
   .about-pg-card {
     margin: 0 auto;
     margin-bottom: 1rem;
+  }
+
+  .people-pg-card {
+    margin: 0 auto;
+    margin-bottom: 1rem;
+    width: 18rem;
+  }
+
+  .bottom-row-people {
+    margin-top: 1rem;
   }
 }
 
