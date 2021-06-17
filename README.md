@@ -30,24 +30,19 @@ The Waterfall Project Management Methodology was used to complete this project.
 Here are before and after photos. The after photos aren't the final project.
 
 ### Before (Web)
-
-<span style="border: 1px solid #a79344">![Web photo before redesign](src/images/readme/before_web.jpg)</span>
+<kbd>![Web photo before redesign](src/images/readme/before_web.jpg)</kbd>
 
 ### Before (Mobile)
-
-<span style="border: 1px solid #a79344">![Mobile photo before redesign](src/images/readme/before_mobile.jpg)</span>
-
-### After (Web)
-
-<span style="border: 1px solid #a79344">![Web photo after redesign](src/images/readme/after_web1.jpg)</span>
+<kbd>![Mobile photo before redesign](src/images/readme/before_mobile.jpg)</kbd>
 
 ### After (Web)
+<kbd>![Web photo after redesign](src/images/readme/after_web1.jpg)</kbd>
 
-<span style="border: 1px solid #a79344">![Web photo after redesign](src/images/readme/after_web2.jpg)</span>
+### After (Web)
+<kbd>![Web photo after redesign](src/images/readme/after_web2.jpg)</kbd>
 
 ### After (Mobile)
-
-<span style="border: 1px solid #a79344">![Mobile photo after redesign](src/images/readme/after_mobile.jpg)</span>
+<kbd>![Mobile photo after redesign](src/images/readme/after_mobile.jpg)</kbd>
 
 <br/>
 <br/>
