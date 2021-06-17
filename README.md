@@ -1,6 +1,6 @@
 # Stout Architecture Website Redesign
 
-<span style="color: red">**In Progress**</span>
+## In Progress
 
 <!-- [http://stoutarchitecture.com] -->
 
@@ -20,6 +20,12 @@ The Waterfall Project Management Methodology was used to complete this project.
 - [ ] Testing: 6/28-29/2021
 - [ ] Delivery / Deployment: 6/30/2021
 - [ ] Maintenance: ongoing
+
+### To Do
+- [ ] Complete People section of the About page
+- [ ] Create Contact page
+- [ ] Add [Parallax Scrolling](https://dixonandmoe.com/rellax) or [Smooth Scrolling](https://www.npmjs.com/package/react-scroll) (test to see which is better for this project)
+- [ ] Perform testing
 
 ### Bug(s)
 
