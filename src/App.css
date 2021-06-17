@@ -50,9 +50,6 @@ Color Scheme:
   font-size: 1.5rem; /* h4 = 1.5rem */
 }
 
-.about-cards-container {
-  border: 1px solid salmon;
-}
 
 /* media queries */
 
@@ -78,6 +75,7 @@ Color Scheme:
 
   .about-pg-card {
     margin: 0 auto;
+    margin-bottom: 1rem;
   }
 }
 

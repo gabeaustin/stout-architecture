@@ -3,9 +3,8 @@ import React from "react";
 const About = () => {
   return (
     <div className="container">
-      <div className="display-3 mb-5 site-heading">About Us</div>
-
-      <div className="hi row d-flex justify-content-md-around justify-content-lg-around justify-content-xl-around justify-content-sm-center">
+      <div className="display-3 mb-4 site-heading">About Us</div>
+      <div className="row d-flex justify-content-md-around justify-content-lg-around justify-content-xl-around justify-content-sm-center">
         <div className="card about-pg-card">
           <div className="card-body">
             <h5 className="card-title font-weight-bold site-heading hr-short">
@@ -33,7 +32,7 @@ const About = () => {
             </p>
           </div>
         </div>
-      </div>
+      </div> {/* this div ends the entire row */}
     </div>
   );
 };
