@@ -1,6 +1,6 @@
 # Stout Architecture Website Redesign
 
-## <span style="color: red">**In Progress**</span>
+<span style="color: red">**In Progress**</span>
 
 <!-- [http://stoutarchitecture.com] -->
 
