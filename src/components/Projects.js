@@ -6,7 +6,8 @@ import Image3 from "../images/construction-3.jpeg";
 const Projects = () => {
   return (
     <div className="container">
-      <div className="feature-image-container">
+      <div className="display-3 mb-5 site-heading">
+        Projects
         <img
           src={FeatureImage}
           alt="Construction project"

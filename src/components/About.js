@@ -5,9 +5,7 @@ const About = () => {
     <div className="container">
       <div className="display-3 mb-5 site-heading">About Us</div>
 
-      {/* </div><div className="row d-flex justify-content-md-evenly justify-content-lg-evenly justify-content-xl-evenly justify-content-sm-center border"> */}
-      <div className=" d-flex justify-content-evenly border">
-        {/* <div className="col-sm-4"> */}
+      <div className="about-cards-container row d-flex justify-content-md-around justify-content-lg-around justify-content-xl-around justify-content-sm-center">
         <div className="card">
           <div className="card-body">
             <h5 className="card-title font-weight-bold site-heading hr-short">
@@ -21,12 +19,12 @@ const About = () => {
             </p>
           </div>
         </div>
-        {/* </div> */}
 
-        {/* <div className="col-sm-4"> */}
         <div className="card">
           <div className="card-body">
-            <h5 className="card-title font-weight-bold site-heading hr-short">about</h5>
+            <h5 className="card-title font-weight-bold site-heading hr-short">
+              about
+            </h5>
             <p className="card-text">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
               soluta, recusandae, laborum ipsum ea at assumenda magnam incidunt,
@@ -35,9 +33,7 @@ const About = () => {
             </p>
           </div>
         </div>
-        {/* </div> */}
 
-        {/* <div className="col-sm-4"> */}
         <div className="card">
           <div className="card-body">
             <h5 className="card-title font-weight-bold site-heading hr-short">
@@ -51,7 +47,7 @@ const About = () => {
             </p>
           </div>
         </div>
-        {/* </div> */}
+        
       </div>
     </div>
   );
