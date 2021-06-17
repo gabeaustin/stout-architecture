@@ -1,22 +1,48 @@
-# Stout Architecture
+# Stout Architecture Website Redesign
 
-### A Gabe A. Production
+## **<span style="color">In Progress</span>**
 
-This is a redesign of the website [http://stoutarchitecture.com](http://stoutarchitecture.com/index.html).
+<!-- [http://stoutarchitecture.com] -->
 
-Here is the before: {image goes here}
+This is a website redesign for a small architecture company.
 
-Here is the after: {image goes here}
+## Project Management
 
 The Waterfall Project Management Methodology was used to complete this project.
 
-[] Requirement gathering and documentation: 6/14/2021
-[] System design: 6/14/2021
-[] Implementation: 6/14/2021 - 6/21/2021 (excluding weekends)
-[] Testing: 6/21-22/2021
-[] Delivery / Deployment: 6/22/2021
-[] Maintenance: 6/22/2021 - 7/22/2021
-
 ##### Start Date: 6/14/2021
 
-##### Proposed Deployment Date: 6/22/2021
+##### Proposed Deployment Date: 6/30/2021
+
+- [x] Requirement gathering and documentation: 6/14/2021
+- [x] System design: 6/14/2021
+- [] Implementation (including design and development): 6/14/2021 - 6/28/2021 (excluding weekends)
+- [] Testing: 6/28-29/2021
+- [] Delivery / Deployment: 6/30/2021
+- [] Maintenance: ongoing
+
+### Bug(s)
+
+### Feature(s)
+
+## Progress Photos
+
+Here are before and after photos. The after photos aren't the final project.
+
+### Before (Web): ![Web photo before redesign](src/images/readme/before_web.jpg)
+
+### Before (Mobile): ![Mobile photo before redesign](src/images/readme/before_mobile.jpg)
+
+### After (Web): ![Web photo after redesign](src/images/readme/after_web1.jpg)
+
+### After (Web): ![Web photo after redesign](src/images/readme/after_web2.jpg)
+
+### After (Mobile): ![Mobile photo after redesign](src/images/readme/after_mobile.jpg)
+
+<br/>
+<br/>
+
+---
+
+:octocat:&nbsp;&nbsp;# Stout Architecture Website Redesign&nbsp;&nbsp;:octocat: <br/>
+:bowtie:&nbsp;&nbsp;A Gabe A. Production&nbsp;&nbsp;:bowtie:

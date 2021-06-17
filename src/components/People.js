@@ -12,11 +12,11 @@ import Person6 from "../images/people/person-6.jpeg";
 const People = () => {
   return (
     <div className="container">
-      <div className="display-3 mb-4 site-heading">People</div>
+      <div className="display-4 mb-4 site-heading">People</div>
 
-      <div className="row border top-row-people d-flex justify-content-md-around justify-content-lg-around justify-content-xl-around justify-content-sm-center">
+      <div className="row pt-3 top-row-people d-flex justify-content-md-around justify-content-lg-around justify-content-xl-around justify-content-sm-center">
         <div className="card people-pg-card">
-            <img src={Person1} class="card-img-top" alt="people"></img>
+            <img src={Person1} class="card-img-top w-75 mx-auto" alt="people"></img>
           <div className="card-body">
             <h5 className="card-title font-weight-bold site-heading hr-short">
               mission
@@ -31,7 +31,7 @@ const People = () => {
         </div>
 
         <div className="card people-pg-card">
-            <img src={Person2} class="card-img-top" alt="people"></img>
+            <img src={Person2} class="card-img-top w-75 mx-auto" alt="people"></img>
           <div className="card-body">
             <h5 className="card-title font-weight-bold site-heading hr-short">
               mission
@@ -46,7 +46,7 @@ const People = () => {
         </div>
 
         <div className="card people-pg-card">
-            <img src={Person3} class="card-img-top" alt="people"></img>
+            <img src={Person3} class="card-img-top w-75 mx-auto" alt="people"></img>
           <div className="card-body">
             <h5 className="card-title font-weight-bold site-heading hr-short">
               mission
@@ -61,9 +61,9 @@ const People = () => {
         </div>
       </div>
 
-      <div className="row border bottom-row-people d-flex justify-content-md-around justify-content-lg-around justify-content-xl-around justify-content-sm-center">
+      <div className="row border pt-3 bottom-row-people d-flex justify-content-md-around justify-content-lg-around justify-content-xl-around justify-content-sm-center">
         <div className="card people-pg-card">
-            <img src={Person4} class="card-img-top" alt="people"></img>
+            <img src={Person4} class="card-img-top w-75 mx-auto" alt="people"></img>
           <div className="card-body">
             <h5 className="card-title font-weight-bold site-heading hr-short">
               mission
@@ -78,7 +78,7 @@ const People = () => {
         </div>
 
         <div className="card people-pg-card">
-            <img src={Person5} class="card-img-top" alt="people"></img>
+            <img src={Person5} class="card-img-top w-75 mx-auto" alt="people"></img>
           <div className="card-body">
             <h5 className="card-title font-weight-bold site-heading hr-short">
               mission
@@ -93,8 +93,8 @@ const People = () => {
         </div>
 
         <div className="card people-pg-card">
-            <img src={Person6} class="card-img-top" alt="people"></img>
-          <div className="card-body">
+            <img src={Person6} class="card-img-top w-75 mx-auto" alt="people"></img>
+          <div className="card-body" id="person6-card-body">
             <h5 className="card-title font-weight-bold site-heading hr-short">
               mission
             </h5>

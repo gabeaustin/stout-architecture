@@ -55,8 +55,11 @@ Color Scheme:
 }
 
 .people-pg-card {
-  /* margin: 0 auto; */
   margin-bottom: 1.5rem;
+}
+
+#person6-card-body {
+  margin-top: 2.5rem;
 }
 
 /* media queries */
