@@ -23,8 +23,8 @@ The Waterfall Project Management Methodology was used to complete this project.
 
 ### To Do
 
-- [ ] Refactor Projects page
-- [ ] Complete People section of the About page
+- [x] Refactor Projects page - add images carousel
+- [x] Complete People section of the About page
 - [ ] Create Contact page
 - [ ] Add routes
 - [ ] Link routes to navbar
