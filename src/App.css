@@ -24,8 +24,13 @@ Color Scheme:
   width: 22rem;
 }
 
-.site-heading {
+.site-heading,
+.primary-font-color {
   color: #a79344;
+}
+
+.lowercase {
+  text-transform: lowercase;
 }
 
 .center-screen {
