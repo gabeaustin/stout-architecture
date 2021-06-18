@@ -46,11 +46,6 @@ const Navbar = () => {
                     People
                   </a>
                 </li>
-                <li>
-                  <a class="dropdown-item" href="#">
-                    Culture
-                  </a>
-                </li>
               </ul>
             </li>
 

@@ -26,6 +26,8 @@ The Waterfall Project Management Methodology was used to complete this project.
 - [ ] Refactor Projects page
 - [ ] Complete People section of the About page
 - [ ] Create Contact page
+- [ ] Add routes
+- [ ] Link routes to navbar
 - [ ] Add [Parallax Scrolling](https://dixonandmoe.com/rellax) or [Smooth Scrolling](https://www.npmjs.com/package/react-scroll) (test to see which is better for this project)
 - [ ] Perform testing
 
