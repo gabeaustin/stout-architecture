@@ -22,6 +22,8 @@ The Waterfall Project Management Methodology was used to complete this project.
 - [ ] Maintenance: ongoing
 
 ### To Do
+
+- [ ] Refactor Projects page
 - [ ] Complete People section of the About page
 - [ ] Create Contact page
 - [ ] Add [Parallax Scrolling](https://dixonandmoe.com/rellax) or [Smooth Scrolling](https://www.npmjs.com/package/react-scroll) (test to see which is better for this project)
@@ -36,18 +38,23 @@ The Waterfall Project Management Methodology was used to complete this project.
 Here are before and after photos. The after photos aren't the final project.
 
 ### Before (Web)
+
 <kbd>![Web photo before redesign](src/images/readme/before_web.jpg)</kbd>
 
 ### Before (Mobile)
+
 <kbd>![Mobile photo before redesign](src/images/readme/before_mobile.jpg)</kbd>
 
 ### After (Web)
+
 <kbd>![Web photo after redesign](src/images/readme/after_web1.jpg)</kbd>
 
 ### After (Web)
+
 <kbd>![Web photo after redesign](src/images/readme/after_web2.jpg)</kbd>
 
 ### After (Mobile)
+
 <kbd>![Mobile photo after redesign](src/images/readme/after_mobile.jpg)</kbd>
 
 <br/>

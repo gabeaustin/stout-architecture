@@ -7,8 +7,6 @@ import Person4 from "../images/people/person-4.jpeg";
 import Person5 from "../images/people/person-5.jpeg";
 import Person6 from "../images/people/person-6.jpeg";
 
-
-
 const People = () => {
   return (
     <div className="container">
@@ -16,12 +14,17 @@ const People = () => {
 
       <div className="row pt-3 top-row-people d-flex justify-content-md-around justify-content-lg-around justify-content-xl-around justify-content-sm-center">
         <div className="card people-pg-card">
-            <img src={Person1} class="card-img-top w-75 mx-auto" alt="people"></img>
+          <img
+            src={Person1}
+            class="card-img-top w-75 mx-auto"
+            alt="people"
+          ></img>
           <div className="card-body">
-            <h5 className="card-title font-weight-bold site-heading hr-short">
-              mission
-            </h5>
-            <p className="card-text">
+            <h3 className="card-title font-weight-bold site-heading hr-short">
+              <span className="people-pg-first-name">first</span>
+              <span className="people-pg-last-name">last</span>
+            </h3>
+            <p className="card-text h5">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
               soluta, recusandae, laborum ipsum ea at assumenda magnam incidunt,
               dolores natus iure delectus enim sunt eius corporis fugit
@@ -31,12 +34,17 @@ const People = () => {
         </div>
 
         <div className="card people-pg-card">
-            <img src={Person2} class="card-img-top w-75 mx-auto" alt="people"></img>
+          <img
+            src={Person2}
+            class="card-img-top w-75 mx-auto"
+            alt="people"
+          ></img>
           <div className="card-body">
-            <h5 className="card-title font-weight-bold site-heading hr-short">
-              mission
-            </h5>
-            <p className="card-text">
+            <h3 className="card-title font-weight-bold site-heading hr-short">
+              <span className="people-pg-first-name">first</span>
+              <span className="people-pg-last-name">last</span>
+            </h3>
+            <p className="card-text h5">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
               soluta, recusandae, laborum ipsum ea at assumenda magnam incidunt,
               dolores natus iure delectus enim sunt eius corporis fugit
@@ -46,12 +54,17 @@ const People = () => {
         </div>
 
         <div className="card people-pg-card">
-            <img src={Person3} class="card-img-top w-75 mx-auto" alt="people"></img>
+          <img
+            src={Person3}
+            class="card-img-top w-75 mx-auto"
+            alt="people"
+          ></img>
           <div className="card-body">
-            <h5 className="card-title font-weight-bold site-heading hr-short">
-              mission
-            </h5>
-            <p className="card-text">
+            <h3 className="card-title font-weight-bold site-heading hr-short">
+              <span className="people-pg-first-name">first</span>
+              <span className="people-pg-last-name">last</span>
+            </h3>
+            <p className="card-text h5">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
               soluta, recusandae, laborum ipsum ea at assumenda magnam incidunt,
               dolores natus iure delectus enim sunt eius corporis fugit
@@ -61,14 +74,19 @@ const People = () => {
         </div>
       </div>
 
-      <div className="row border pt-3 bottom-row-people d-flex justify-content-md-around justify-content-lg-around justify-content-xl-around justify-content-sm-center">
+      <div className="row pt-3 bottom-row-people d-flex justify-content-md-around justify-content-lg-around justify-content-xl-around justify-content-sm-center">
         <div className="card people-pg-card">
-            <img src={Person4} class="card-img-top w-75 mx-auto" alt="people"></img>
+          <img
+            src={Person4}
+            class="card-img-top w-75 mx-auto"
+            alt="people"
+          ></img>
           <div className="card-body">
-            <h5 className="card-title font-weight-bold site-heading hr-short">
-              mission
-            </h5>
-            <p className="card-text">
+            <h3 className="card-title font-weight-bold site-heading hr-short">
+              <span className="people-pg-first-name">first</span>
+              <span className="people-pg-last-name">last</span>
+            </h3>
+            <p className="card-text h5">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
               soluta, recusandae, laborum ipsum ea at assumenda magnam incidunt,
               dolores natus iure delectus enim sunt eius corporis fugit
@@ -78,12 +96,17 @@ const People = () => {
         </div>
 
         <div className="card people-pg-card">
-            <img src={Person5} class="card-img-top w-75 mx-auto" alt="people"></img>
+          <img
+            src={Person5}
+            class="card-img-top w-75 mx-auto"
+            alt="people"
+          ></img>
           <div className="card-body">
-            <h5 className="card-title font-weight-bold site-heading hr-short">
-              mission
-            </h5>
-            <p className="card-text">
+            <h3 className="card-title font-weight-bold site-heading hr-short">
+              <span className="people-pg-first-name">first</span>
+              <span className="people-pg-last-name">last</span>
+            </h3>
+            <p className="card-text h5">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
               soluta, recusandae, laborum ipsum ea at assumenda magnam incidunt,
               dolores natus iure delectus enim sunt eius corporis fugit
@@ -93,12 +116,17 @@ const People = () => {
         </div>
 
         <div className="card people-pg-card">
-            <img src={Person6} class="card-img-top w-75 mx-auto" alt="people"></img>
+          <img
+            src={Person6}
+            class="card-img-top w-75 mx-auto"
+            alt="people"
+          ></img>
           <div className="card-body" id="person6-card-body">
-            <h5 className="card-title font-weight-bold site-heading hr-short">
-              mission
-            </h5>
-            <p className="card-text">
+            <h3 className="card-title font-weight-bold site-heading hr-short">
+              <span className="people-pg-first-name">first</span>
+              <span className="people-pg-last-name">last</span>
+            </h3>
+            <p className="card-text h5">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
               soluta, recusandae, laborum ipsum ea at assumenda magnam incidunt,
               dolores natus iure delectus enim sunt eius corporis fugit

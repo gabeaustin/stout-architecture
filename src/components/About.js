@@ -9,9 +9,7 @@ const About = () => {
         <div className="row d-flex justify-content-md-around justify-content-lg-around justify-content-xl-around justify-content-sm-center">
           <div className="card about-pg-card">
             <div className="card-body">
-              <h5 className="card-title font-weight-bold site-heading hr-short">
-                mission
-              </h5>
+              < h3 className="card-title site-heading hr-short">mission</ h3>
               <p className="card-text">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
                 soluta, recusandae, laborum ipsum ea at assumenda magnam
@@ -23,9 +21,7 @@ const About = () => {
 
           <div className="card about-pg-card">
             <div className="card-body">
-              <h5 className="card-title font-weight-bold site-heading hr-short">
-                services
-              </h5>
+              < h3 className="card-title site-heading hr-short">services</ h3>
               <p className="card-text">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
                 soluta, recusandae, laborum ipsum ea at assumenda magnam
@@ -34,7 +30,8 @@ const About = () => {
               </p>
             </div>
           </div>
-        </div> {/* this div ends the entire row */}
+        </div>{" "}
+        {/* this div ends the entire row */}
       </div>
 
       <People />
