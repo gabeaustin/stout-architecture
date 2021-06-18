@@ -24,7 +24,11 @@ const People = () => {
               <span className="people-pg-first-name">first</span>
               <span className="people-pg-last-name">last</span>
             </h3>
-            <p className="card-text h5">
+            <div className="h5 hr-short-center">
+              email: first.last@company.com <br />
+              phone: (987) 654-3210
+            </div>
+            <p className="card-text h6 text-muted">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
               soluta, recusandae, laborum ipsum ea at assumenda magnam incidunt,
               dolores natus iure delectus enim sunt eius corporis fugit
@@ -44,7 +48,11 @@ const People = () => {
               <span className="people-pg-first-name">first</span>
               <span className="people-pg-last-name">last</span>
             </h3>
-            <p className="card-text h5">
+            <div className="h5 hr-short-center">
+              email: first.last@company.com <br />
+              phone: (987) 654-3210
+            </div>
+            <p className="card-text h6 text-muted">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
               soluta, recusandae, laborum ipsum ea at assumenda magnam incidunt,
               dolores natus iure delectus enim sunt eius corporis fugit
@@ -64,7 +72,11 @@ const People = () => {
               <span className="people-pg-first-name">first</span>
               <span className="people-pg-last-name">last</span>
             </h3>
-            <p className="card-text h5">
+            <div className="h5 hr-short-center">
+              email: first.last@company.com <br />
+              phone: (987) 654-3210
+            </div>
+            <p className="card-text h6 text-muted">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
               soluta, recusandae, laborum ipsum ea at assumenda magnam incidunt,
               dolores natus iure delectus enim sunt eius corporis fugit
@@ -86,7 +98,11 @@ const People = () => {
               <span className="people-pg-first-name">first</span>
               <span className="people-pg-last-name">last</span>
             </h3>
-            <p className="card-text h5">
+            <div className="h5 hr-short-center">
+              email: first.last@company.com <br />
+              phone: (987) 654-3210
+            </div>
+            <p className="card-text h6 text-muted">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
               soluta, recusandae, laborum ipsum ea at assumenda magnam incidunt,
               dolores natus iure delectus enim sunt eius corporis fugit
@@ -106,7 +122,11 @@ const People = () => {
               <span className="people-pg-first-name">first</span>
               <span className="people-pg-last-name">last</span>
             </h3>
-            <p className="card-text h5">
+            <div className="h5 hr-short-center">
+              email: first.last@company.com <br />
+              phone: (987) 654-3210
+            </div>
+            <p className="card-text h6 text-muted">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
               soluta, recusandae, laborum ipsum ea at assumenda magnam incidunt,
               dolores natus iure delectus enim sunt eius corporis fugit
@@ -126,7 +146,11 @@ const People = () => {
               <span className="people-pg-first-name">first</span>
               <span className="people-pg-last-name">last</span>
             </h3>
-            <p className="card-text h5">
+            <div className="h5 hr-short-center">
+              email: first.last@company.com <br />
+              phone: (987) 654-3210
+            </div>
+            <p className="card-text h6 text-muted">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ut
               soluta, recusandae, laborum ipsum ea at assumenda magnam incidunt,
               dolores natus iure delectus enim sunt eius corporis fugit

@@ -45,6 +45,15 @@ Color Scheme:
   border-bottom: 1px solid #f0f5f4; /* This creates the border. Replace black with whatever color you want. */
 }
 
+.hr-short-center:after {
+  content: ""; /* This is necessary for the pseudo element to work. */
+  display: block; /* This will put the pseudo element on its own line. */
+  width: 50%; /* Change this to whatever width you want. */
+  padding-top: 7px; /* This creates some space between the element and the border. */
+  margin: 0 auto;
+  border-bottom: 2px solid #f0f5f4; /* This creates the border. Replace black with whatever color you want. */
+}
+
 .co-name-home-page {
   font-size: 13em;
 }
