@@ -20,7 +20,7 @@
   /* background-color: rgb(0, 0, 0, 0.6); */
   display: grid;
   place-items: center;
-  color: #a79344;
+  color: #fff;
   cursor: pointer;
 }
 
@@ -37,7 +37,7 @@
   /* background-color: rgb(0, 0, 0, 0.6); */
   display: grid;
   place-items: center;
-  color: #a79344;
+  color: #fff;
   cursor: pointer;
 }
 

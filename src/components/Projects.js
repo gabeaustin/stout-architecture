@@ -1,5 +1,4 @@
 import React from "react";
-import FeatureImage from "../images/construction-1-feat.jpeg";
 import Image2 from "../images/construction-2.jpeg";
 import Image3 from "../images/construction-3.jpeg";
 import Carousel from "./Carousel";
@@ -7,12 +6,12 @@ import Carousel from "./Carousel";
 const Projects = () => {
   return (
     <div className="container">
-      <div className="display-3 mb-5 site-heading">
-        Projects
+      <div className="carousel-container mb-5">
+        <div className="mb-5 display-3 site-heading border">Projects</div>
         <Carousel />
       </div>
 
-      <div className="row d-flex justify-content-md-around justify-content-lg-around justify-content-xl-around justify-content-sm-center">
+      <div className="row mb-4 border d-flex justify-content-md-around justify-content-lg-around justify-content-xl-around justify-content-sm-center">
         <div className="col-sm-12 site-heading h2">New Projects</div>
       </div>
 
