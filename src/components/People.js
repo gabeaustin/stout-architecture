@@ -13,7 +13,7 @@ const People = () => {
       <div className="display-4 mb-4 site-heading">People</div>
 
       <div className="row pt-3 top-row-people d-flex justify-content-md-around justify-content-lg-around justify-content-xl-around justify-content-sm-center">
-        <div className="card people-pg-card">
+        <div className="card people-pg-card border-0">
           <img
             src={Person1}
             class="card-img-top w-75 mx-auto"
@@ -37,7 +37,7 @@ const People = () => {
           </div>
         </div>
 
-        <div className="card people-pg-card">
+        <div className="card people-pg-card border-0">
           <img
             src={Person2}
             class="card-img-top w-75 mx-auto"
@@ -61,7 +61,7 @@ const People = () => {
           </div>
         </div>
 
-        <div className="card people-pg-card">
+        <div className="card people-pg-card border-0">
           <img
             src={Person3}
             class="card-img-top w-75 mx-auto"
@@ -87,7 +87,7 @@ const People = () => {
       </div>
 
       <div className="row pt-3 bottom-row-people d-flex justify-content-md-around justify-content-lg-around justify-content-xl-around justify-content-sm-center">
-        <div className="card people-pg-card">
+        <div className="card people-pg-card border-0">
           <img
             src={Person4}
             class="card-img-top w-75 mx-auto"
@@ -111,7 +111,7 @@ const People = () => {
           </div>
         </div>
 
-        <div className="card people-pg-card">
+        <div className="card people-pg-card border-0">
           <img
             src={Person5}
             class="card-img-top w-75 mx-auto"
@@ -135,7 +135,7 @@ const People = () => {
           </div>
         </div>
 
-        <div className="card people-pg-card">
+        <div className="card people-pg-card border-0">
           <img
             src={Person6}
             class="card-img-top w-75 mx-auto"

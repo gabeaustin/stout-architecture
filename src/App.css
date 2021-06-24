@@ -87,8 +87,9 @@ Color Scheme:
 
 /* Will show on screens that are 576px or less */
 @media (max-width: 576px) {
+/* @media (min-width: 768px) {   */
   .co-name-home-page {
-    font-size: 6rem;
+    font-size: 4rem;
     font-weight: 300;
   }
 

@@ -9,28 +9,7 @@ const Projects = () => {
     <div className="container">
       <div className="display-3 mb-5 site-heading">
         Projects
-        {/* <img
-          src={FeatureImage}
-          alt="Construction project"
-          className="rounded mx-auto d-block feature-project w-50 img-fluid"
-        /> */}
         <Carousel />
-      </div>
-
-      <div className="row">
-        <div className="col-sm-12 site-heading h2">Featured Project</div>
-      </div>
-
-      <div className="row">
-        <div className="feature-image-content col-sm-9 h4">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum
-          ipsam, deleniti illum molestiae corporis omnis, voluptatum, aspernatur
-          commodi deserunt dolorem alias. Quasi consequatur hic magni iusto
-          culpa tempora omnis placeat.
-        </div>
-        <div className="feature-image-content-cta col-sm-3 text-muted h4">
-          Learn More
-        </div>
       </div>
 
       <div className="row d-flex justify-content-md-around justify-content-lg-around justify-content-xl-around justify-content-sm-center">

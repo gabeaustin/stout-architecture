@@ -6,6 +6,7 @@ import Navbar from "./components/Navbar";
 import HomePage from "./components/HomePage";
 import About from "./components/About";
 import Projects from "./components/Projects";
+import Contact from "./components/Contact";
 // import Carousel from "./components/Carousel";
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <HomePage />
       <About />
       <Projects />
+      <Contact />
       {/* <Carousel /> */}
     </div>
   );

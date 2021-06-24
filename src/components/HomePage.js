@@ -3,7 +3,7 @@ import React from "react";
 const HomePage = () => {
   return (
     <div className="container">
-      <div className="logo-container center-screen">
+      <div className="logo-container center-screen border">
         <div className="co-name-home-page text-uppercase text-center site-heading">
           Stout
         </div>
