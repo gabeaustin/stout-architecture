@@ -83,16 +83,9 @@ Color Scheme:
   font-weight: 300;
 }
 
-/* .office-building-container {
-    height:390px;
-    margin-top:10px;
-    overflow: hidden;
+.mobile-view {
+    display: none;
 }
-*/
-/* 
-.office-building-container img {
-    margin: 0 auto;
-} */
 
 /* media queries */
 

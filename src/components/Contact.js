@@ -1,7 +1,5 @@
 import React from "react";
 
-import OfficeBuilding1 from "../images/office-building-1.jpeg";
-import OfficeBuilding2 from "../images/office-building-2.jpeg";
 import BhamBuilding from "../images/office-building-3.jpeg";
 import SoHoBuilding from "../images/office-building-4.jpeg";
 
@@ -10,9 +8,6 @@ const Contact = () => {
     <div className="container">
       <div className="display-3 mb-5 site-heading">Contact Us</div>
       <div className="row">
-        {/* <div className="office-building-container col-md-6 border border-black">
-          <div className="h3 mb-3 text-muted site-heading">New York Office</div>
-        </div> */}
         <div className="col-md-2"></div>
         <div className="col-md-4 col-sm-6 mb-5">
           <div class="card border-0">
@@ -35,7 +30,6 @@ const Contact = () => {
           </div>
         </div>
 
-        {/* <div className="col-md-2"></div> */}
         <div className="col-md-4 col-sm-6 mb-5">
           <div class="card border-0">
             <div className="h3 mb-3 text-muted site-heading">
